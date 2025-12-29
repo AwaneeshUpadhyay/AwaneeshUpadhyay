@@ -40,4 +40,4 @@ business insights through structured analysis.
 
 ### 🌐 Connect With Me
 - GitHub: https://github.com/AwaneeshUpadhyay
-- LinkedIn: (add your LinkedIn profile link here)
+- LinkedIn: https://www.linkedin.com/in/awaneesh-kumar-upadhyay-a83863221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
