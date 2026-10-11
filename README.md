@@ -1,13 +1,15 @@
 # Hi, I'm Awaneesh 👋
 
 ## SQL Data Analyst
-I work on analyzing data using SQL to extract meaningful
+I work on analyzing data using SQL/POWER-BI to extract meaningful
 business insights through structured analysis.
 
 ---
 
 ### 🔧 Skills & Tools
 - SQL (MySQL / PostgreSQL)
+- POWER BI
+- MICROSOFT EXCEL
 - Exploratory Data Analysis (EDA)
 - Advanced SQL Analysis
 - Window Functions & CTEs
